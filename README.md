@@ -1,4 +1,4 @@
-[![MasterHead](https://img.helpnetsecurity.com/wp-content/uploads/2023/06/01145532/cybersecurity-github.jpg)
+![MasterHead](https://img.helpnetsecurity.com/wp-content/uploads/2023/06/01145532/cybersecurity-github.jpg)
 <h1 align="center">Hi 👋, I'm DEEPU RS</h1>
 <h3 align="center">A Cyber Security Researcher from Kerala</h3>
 
